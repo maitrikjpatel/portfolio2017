@@ -1,5 +1,5 @@
 ## One Page Portfolio
 
-- Link : [maitrikpatel.com](www.maitrikpatel.com)
+- Link : [maitrikpatel.com](http://www.maitrikpatel.com)
 
 ![Portfolio SnapShot](./portfolioimg.png)
