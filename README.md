@@ -2,4 +2,4 @@
 
 - Link : [maitrikpatel.com](www.maitrikpatel.com)
 
-[Portfolio SnapShot](./portfolioimg.png)
+![Portfolio SnapShot](./portfolioimg.png)
